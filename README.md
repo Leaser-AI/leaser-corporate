@@ -13,7 +13,7 @@ Then open `http://127.0.0.1:45682/`.
 
 ## Site roles
 
-- `www.leaserai.com`: corporate narrative, commercial outcomes, asset-owner conversion
+- `www.leaserai.com`: corporate narrative, commercial outcomes, and conversion for owner-operators and equity partners
 - `build.leaserai.com`: architecture, research, field notes, ecosystem, and careers
 
 The site is static and compatible with GitHub Pages. Add a `CNAME` containing
