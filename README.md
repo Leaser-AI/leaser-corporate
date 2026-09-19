@@ -18,3 +18,5 @@ Then open `http://127.0.0.1:45682/`.
 
 The site is static and compatible with GitHub Pages. Add a `CNAME` containing
 `www.leaserai.com` only when the production cutover is ready.
+
+See [SITEMAP.md](SITEMAP.md) for the implemented navigation and page roles.

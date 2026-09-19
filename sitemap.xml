@@ -5,4 +5,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url><loc>https://www.leaserai.com/system/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leaserai.com/outcomes/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leaserai.com/for/marketing/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leaserai.com/for/leasing/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leaserai.com/for/owners-equity-partners/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leaserai.com/learn/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leaserai.com/research/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leaserai.com/about/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.leaserai.com/team/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.leaserai.com/careers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.leaserai.com/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.leaserai.com/how-leaser-runs/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
