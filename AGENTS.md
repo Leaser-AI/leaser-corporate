@@ -5,12 +5,12 @@ This repository contains the static corporate website for Leaser AI.
 ## Deploy Configuration (configured by /setup-deploy)
 
 - Platform: GitHub Pages
-- Production URL: https://www.leaserai.com/
+- Production URL: https://leaser-ai.github.io/leaser-corporate/
 - Deploy workflow: GitHub Pages from `main` at repository root
 - Deploy status command: `gh run list --repo Leaser-AI/leaser-corporate --workflow pages-build-deployment --limit 1`
 - Merge method: direct push to `main`
 - Project type: static web app
-- Post-deploy health check: https://www.leaserai.com/
+- Post-deploy health check: https://leaser-ai.github.io/leaser-corporate/
 
 ### Custom deploy hooks
 
