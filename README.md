@@ -1,7 +1,7 @@
 # Leaser corporate website
 
 The corporate website for Leaser AI, published at
-`https://leaser-ai.github.io/leaser-corporate/`.
+`https://www.leaserai.com/`.
 
 ## Local preview
 
