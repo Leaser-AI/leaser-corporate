@@ -1,7 +1,7 @@
 # Leaser corporate website
 
-The corporate website for Leaser AI, intended for deployment at
-`www.leaserai.com`.
+The corporate website for Leaser AI, published at
+`https://leaser-ai.github.io/leaser-corporate/`.
 
 ## Local preview
 
@@ -11,12 +11,6 @@ python3 -m http.server 45682
 
 Then open `http://127.0.0.1:45682/`.
 
-## Site roles
+The site is static and deployed from `main` on GitHub Pages. The previous site is preserved at `/_archive/`, including its homepage and original navigation. Archived pages are excluded from the current sitemap and marked `noindex, nofollow`.
 
-- `www.leaserai.com`: corporate narrative, commercial outcomes, and conversion for owner-operators and equity partners
-- `build.leaserai.com`: architecture, research, field notes, ecosystem, and careers
-
-The site is static and compatible with GitHub Pages. Add a `CNAME` containing
-`www.leaserai.com` only when the production cutover is ready.
-
-See [SITEMAP.md](SITEMAP.md) for the implemented navigation and page roles.
+See [SITEMAP.md](SITEMAP.md) for the current navigation.
