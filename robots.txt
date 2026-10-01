@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.leaserai.com/sitemap.xml
+Sitemap: https://leaser-ai.github.io/leaser-corporate/sitemap.xml
