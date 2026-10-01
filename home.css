@@ -108,7 +108,7 @@
 @media (max-width: 900px) { .loop-intro { grid-template-columns: 1fr 1fr; }.loop-steps li:not(:last-child)::after { right: 8%; }.influence-section { grid-template-columns: 1fr 1fr; row-gap: 22px; }.influence-section > a { justify-self: start; grid-column: 2; }.ui-recommendation { grid-template-columns: 1fr 1fr; }.ui-recommendation .ui-action { grid-column: 2; justify-self: start; } }
 @media (max-width: 650px) { .loop-intro,.loop-bottom { grid-template-columns: 1fr; gap: 20px; }.loop-steps { grid-template-columns: 1fr; gap: 15px; margin-top: 30px; }.loop-steps li,.loop-steps li + li { display: grid; grid-template-columns: 38px 1fr; gap: 0 15px; min-height: 0; padding: 0; }.loop-steps li:not(:last-child)::after { content: "↓"; top: auto; right: auto; bottom: -17px; left: 12px; font-size: 18px; }.loop-steps li strong { width: auto; margin: 0; text-align: left; }.loop-steps li p { grid-column: 2; min-height: 0; padding: 0; border: 0; }.loop-return { display: none; }.influence-section { grid-template-columns: 1fr; padding: 36px 5%; }.influence-section > div:nth-child(2) { padding: 0; border: 0; }.influence-section > a { grid-column: 1; padding: 0; }.ui-status { min-width: 660px; }.ui-recommendation { min-width: 660px; } }
 
-.home-header .primary-nav > a[aria-current="page"] { padding-bottom: 4px; border-bottom: 2px solid var(--lime); }
+.home-header .primary-nav > a[aria-current="page"] { text-decoration: underline; text-decoration-color: var(--lime); text-decoration-thickness: 2px; text-underline-offset: 7px; }
 .decision-section.home-section { padding-top: 48px; }
 
 /* Continuation of the updated homepage reference. */
