@@ -6,6 +6,7 @@
     <priority>1.0</priority>
   </url>
   <url><loc>https://www.leaserai.com/system/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leaserai.com/outcomes/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.leaserai.com/for/marketing/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.leaserai.com/for/leasing/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.leaserai.com/for/owners-equity-partners/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>

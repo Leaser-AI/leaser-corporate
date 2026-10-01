@@ -4,6 +4,7 @@
 
 - Home — `/`
 - Leaser AI — `/system/`
+- Outcomes — `/outcomes/`
 - Who We Help
   - Marketing Teams — `/for/marketing/`
   - Leasing Teams — `/for/leasing/`
