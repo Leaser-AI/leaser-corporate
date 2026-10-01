@@ -1,12 +1,13 @@
 {
   "name": "Leaser AI",
   "short_name": "Leaser",
-  "description": "Outcome Intelligence for Multifamily.",
+  "description": "Connected intelligence and coordinated performance for multifamily assets.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f7f8f5",
-  "theme_color": "#08b8ad",
+  "theme_color": "#111c17",
   "icons": [
-    { "src": "assets/leaser-vertical-logo.png", "sizes": "1254x1254", "type": "image/png" }
+    { "src": "assets/leaser-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
   ]
 }
