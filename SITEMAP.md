@@ -7,6 +7,7 @@
 - Outcomes — `/outcomes/`
 - Talk to Leaser — `/contact/`
 - Learn — `/learn/`
+  - Seven practical articles and matching printable worksheets — linked from `/learn/`
 - Research — `/research/`
   - Nine research notes — linked from `/research/`
   - FAQ — `/research/faq/`
