@@ -5,6 +5,10 @@
 - Home — `/`
 - Leaser AI — `/system/`
 - Outcomes — `/outcomes/`
+- Learn — `/learn/`
+- Research — `/research/`
+  - Nine research notes — linked from `/research/`
+  - FAQ — `/research/faq/`
 - Who We Help
   - Marketing Teams — `/for/marketing/`
   - Leasing Teams — `/for/leasing/`
