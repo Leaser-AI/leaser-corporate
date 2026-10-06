@@ -5,6 +5,7 @@
 - Home — `/`
 - Leaser AI — `/system/`
 - Outcomes — `/outcomes/`
+- Talk to Leaser — `/contact/`
 - Learn — `/learn/`
 - Research — `/research/`
   - Nine research notes — linked from `/research/`
@@ -15,7 +16,7 @@
   - Owners & Equity Partners — `/for/owners-equity-partners/`
 - How Leaser Runs — `/how-leaser-runs/`
 
-“Talk to Leaser” calls to action open an email to `leasing@leaserai.com`. The pricing form on How Leaser Runs opens a prepared email draft.
+“Talk to Leaser” calls to action open `/contact/`. The contact inquiry form is hosted by Tally. The pricing form on How Leaser Runs opens a prepared email draft.
 
 ## Archive
 
