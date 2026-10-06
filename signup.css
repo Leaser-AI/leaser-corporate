@@ -1,0 +1,23 @@
+.leaser-signup{--ls-paper:#fff;--ls-ink:#191d1a;--ls-charcoal:#171c19;--ls-yellow:#e7fb43;--ls-copy:#c7ccc4;--ls-rule:#4a4e4c;box-sizing:border-box;background:var(--ls-charcoal);color:var(--ls-paper);padding:64px 0 80px}
+.leaser-signup *{box-sizing:border-box}
+.leaser-signup__wrap{width:min(1280px,calc(100% - 128px));margin-inline:auto}
+.leaser-signup__rule{height:1px;background:var(--ls-rule);position:relative;margin-bottom:42px}
+.leaser-signup__rule::before{content:"";position:absolute;left:0;top:-1px;width:42px;height:3px;background:var(--ls-yellow)}
+.leaser-signup__grid{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:96px;align-items:center}
+.leaser-signup__eyebrow{font-size:12px;line-height:1.4;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--ls-yellow);margin:0 0 24px}
+.leaser-signup__title{font-size:clamp(44px,4.03vw,58px);line-height:1.05;letter-spacing:-.035em;font-weight:400;margin:0;max-width:540px}
+.leaser-signup__body{max-width:650px;margin:24px 0 0;font-size:21px;line-height:1.45;color:var(--ls-copy)}
+.leaser-signup__form{margin:0;min-width:0}
+.leaser-signup__label{display:block;font-size:14px;line-height:1.4;margin-bottom:12px}
+.leaser-signup__input{display:block;width:100%;height:64px;border:1px solid #b6bcb1;border-radius:3px;background:transparent;color:var(--ls-paper);font:inherit;font-size:18px;padding:0 18px;box-shadow:none;appearance:none}
+.leaser-signup__input::placeholder{color:#b6bcb1;opacity:1}
+.leaser-signup__input:hover{border-color:var(--ls-paper)}
+.leaser-signup__input:invalid:not(:placeholder-shown){border-color:var(--ls-yellow)}
+.leaser-signup__input:focus-visible{outline:2px solid var(--ls-yellow);outline-offset:4px}
+.leaser-signup__button{width:100%;min-height:60px;display:flex;gap:20px;justify-content:space-between;align-items:center;margin-top:12px;padding:16px 20px;border:1px solid var(--ls-yellow);border-radius:3px;background:var(--ls-yellow);color:var(--ls-ink);font:inherit;font-size:18px;line-height:1.4;text-align:left;cursor:pointer}
+.leaser-signup__button:hover:not(:disabled){background:#edfc72;border-color:#edfc72}
+.leaser-signup__button:focus-visible{outline:2px solid var(--ls-paper);outline-offset:4px}
+.leaser-signup__arrow{width:22px;height:22px;flex:none;stroke:currentColor;stroke-width:1.5;fill:none}
+.leaser-signup__note{font-size:13px;line-height:1.5;color:#c4cbc1;margin:16px 0 0}
+@media(max-width:1050px){.leaser-signup__wrap{width:calc(100% - 80px)}.leaser-signup__grid{gap:48px;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}.leaser-signup__body{font-size:19px}}
+@media(max-width:760px){.leaser-signup{padding:40px 0 48px}.leaser-signup__wrap{width:calc(100% - 40px)}.leaser-signup__grid{grid-template-columns:1fr;gap:32px}.leaser-signup__rule{margin-bottom:30px}.leaser-signup__eyebrow{margin-bottom:20px}.leaser-signup__title{font-size:38px;line-height:1.08;letter-spacing:-.03em}.leaser-signup__body{font-size:18px;line-height:1.5;margin-top:20px}.leaser-signup__input{height:60px}.leaser-signup__button{min-height:58px;font-size:17px}.leaser-signup__form{max-width:520px}}
