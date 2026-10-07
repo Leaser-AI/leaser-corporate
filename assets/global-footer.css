@@ -1,0 +1,15 @@
+.leaser-site-footer{box-sizing:border-box;background:#f7f8f5;color:#171c19;border-top:1px solid #d8ddd5;font-family:LeaserSans,"DM Sans",Arial,sans-serif}
+.leaser-site-footer *{box-sizing:border-box}
+.leaser-site-footer__inner{width:min(1280px,calc(100% - 80px));margin:auto;display:flex;justify-content:space-between;align-items:flex-start;gap:32px;padding:28px 0 34px}
+.leaser-site-footer__brand{display:flex;align-items:center;gap:20px;white-space:nowrap}
+.leaser-site-footer__logo{display:inline-flex;align-items:center;justify-content:space-between;gap:12px;min-width:90px;padding:4px 6px 4px 12px;border:1.5px solid #171c19;border-radius:100px;color:#171c19!important;background:#fff;font-size:17px;font-weight:700;letter-spacing:-.055em;line-height:1;text-decoration:none}
+.leaser-site-footer__logo i{display:block;width:19px;height:19px;flex:none;border-radius:50%;background:#e7fb43}
+.leaser-site-footer__tagline{font-size:16px;color:#646d66}
+.leaser-site-footer__nav{display:flex;align-items:center;justify-content:flex-end;gap:10px 22px;flex-wrap:wrap;max-width:770px;font-size:13px;line-height:1.45}
+.leaser-site-footer__nav a{color:#4d5750!important;text-decoration:none}
+.leaser-site-footer__nav a:hover,.leaser-site-footer__nav a[aria-current=page]{color:#171c19!important;text-decoration:underline;text-decoration-color:#c8e53a;text-decoration-thickness:2px;text-underline-offset:5px}
+.leaser-site-footer__nav a:focus-visible,.leaser-site-footer__logo:focus-visible{outline:2px solid #171c19;outline-offset:4px}
+.leaser-site-footer__copyright{color:#727b74;white-space:nowrap}
+@media(max-width:850px){.leaser-site-footer__inner{display:block;width:calc(100% - 40px);padding:26px 0 32px}.leaser-site-footer__nav{justify-content:flex-start;max-width:none;margin-top:27px;gap:13px 22px}.leaser-site-footer__tagline{font-size:14px}}
+@media(max-width:460px){.leaser-site-footer__nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 18px}.leaser-site-footer__copyright{grid-column:1/-1;padding-top:10px}}
+@media print{.leaser-site-footer{display:none}}
