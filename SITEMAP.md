@@ -5,7 +5,7 @@
 - Home — `/`
 - Leaser AI — `/system/`
 - Outcomes — `/outcomes/`
-- About — `/about/`
+- About — `/about/` (footer)
 - Talk to Leaser — `/contact/`
 - Learn — `/learn/`
   - Seven practical articles and matching printable worksheets — linked from `/learn/`

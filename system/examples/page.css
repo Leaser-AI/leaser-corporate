@@ -38,3 +38,5 @@
 .product-logo-text{font-size:24px;letter-spacing:-.06em}
 
 .example-site-nav{display:flex;gap:24px;align-items:center;padding:22px 0;border-bottom:1px solid #dce1d8;font-size:15px}.example-site-nav a:last-child{margin-left:auto}.example-site-nav a:hover{text-decoration:underline;text-underline-offset:4px}@media(max-width:760px){.example-site-nav{gap:15px;flex-wrap:wrap}.example-site-nav a:last-child{margin-left:0}}
+
+.page-footer nav{display:flex;flex-wrap:wrap;gap:18px}

@@ -6,7 +6,7 @@ body{font-family:"DM Sans",Arial,sans-serif}
 .footer .brand{min-width:122px;min-height:40px;font-size:18px}
 .footer .brand i{width:27px;height:27px}
 .tally-shell{background:var(--paper);margin-top:34px;padding:26px;max-width:900px}
-.tally-shell iframe{width:100%;border:0;display:block;min-height:950px}
+.tally-shell iframe{width:100%;border:0;display:block;min-height:0}
 .tally-shell p{font-size:14px;line-height:1.5;margin-top:12px;color:var(--muted)}
 .tally-shell a{text-decoration:underline;text-underline-offset:3px}
 @media(max-width:760px){.brand{min-width:122px;min-height:40px;font-size:19px}.brand i{width:27px;height:27px}.tally-shell{padding:12px;margin-top:24px}}

@@ -11,6 +11,16 @@
 .faq-list p{margin:0 0 12px;color:#70747b;font-size:clamp(14px,1.85vw,21px);letter-spacing:-.025em;line-height:1.25}
 .faq-list p:last-child{margin-bottom:0}
 .faq-list p strong{font-weight:700;color:#555b61}
+.faq-content--light{background:#fafaf7}
+.faq-section-link,.faq-inline-link{display:inline-block;color:#111;text-decoration:none;border-bottom:2px solid #e4ff00;font-size:18px;letter-spacing:-.035em}
+.faq-section-link{margin-top:6px}
+.faq-inline-link{margin-top:3px}
+.faq-section-link span,.faq-inline-link span{margin-left:8px}
+.faq-cta{background:#111c17;color:#fff;padding:25px 0 29px}
+.faq-cta .research-wrap{display:flex;justify-content:space-between;align-items:center;gap:24px}
+.faq-cta h2{font-size:clamp(32px,4vw,44px);letter-spacing:-.055em;line-height:1.1;margin:0}
+.faq-cta p{font-size:22px;letter-spacing:-.04em;margin:3px 0 0}
+.faq-cta a{display:inline-flex;align-items:center;justify-content:space-between;gap:28px;min-width:180px;border-radius:28px;padding:10px 19px;background:#e4ff00;color:#111;text-decoration:none;font-size:15px;white-space:nowrap}
 @media(min-width:701px) and (max-width:900px){.faq-page .research-wrap{width:calc(100% - 104px);margin-left:56px;margin-right:48px}}
 @media(max-width:700px){
   .faq-hero{padding:34px 0 26px}
@@ -20,5 +30,7 @@
   .faq-list article{grid-template-columns:1fr;gap:13px;padding:18px 0 23px}
   .faq-list h3{font-size:24px}
   .faq-list p{font-size:16px;line-height:1.35}
+  .faq-cta .research-wrap{align-items:flex-start;flex-direction:column}
+  .faq-cta p{font-size:19px}
 }
 @media(max-width:400px){.faq-hero h1{font-size:43px}.faq-content h2{font-size:46px}}
