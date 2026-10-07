@@ -1,5 +1,5 @@
 .learn-hero{padding:42px 0 37px}
-.learn-hero h1{margin:18px 0 12px;font-size:clamp(68px,8.8vw,112px);font-weight:400;letter-spacing:-.066em;line-height:.93}
+.learn-hero h1{margin:18px 0 12px;font-size:clamp(47px,5.2vw,76px);font-weight:400;letter-spacing:-.055em;line-height:.98}
 .learn-hero h1 strong{font-weight:700}
 .learn-hero>p:last-child{max-width:1000px;margin:14px 0 0;color:#626a79;font-size:clamp(23px,3vw,34px);letter-spacing:-.045em;line-height:1.17}
 .learn-feature{background:radial-gradient(circle at 45% 52%,#19291f 0,#111c17 50%,#0e1915 100%);color:#fff}
@@ -32,7 +32,6 @@
 .learn-closing a{flex:none;font-size:16px;text-decoration:underline;text-decoration-color:#dfff00;text-decoration-thickness:2px;text-underline-offset:8px}
 @media(max-width:700px){
   .learn-hero{padding:34px 0 28px}
-  .learn-hero h1{font-size:clamp(44px,9vw,64px)}
   .learn-feature-grid{grid-template-columns:1fr;gap:24px;padding:28px 0}
   .learn-feature-copy{margin-right:0}
   .learn-cover{min-height:280px;margin-right:0}
@@ -42,4 +41,4 @@
   .learn-grid article>p:not(.research-eyebrow){min-height:0}
   .learn-closing>.research-wrap{align-items:flex-start;flex-direction:column}
 }
-@media(max-width:400px){.learn-hero h1{font-size:43px}.learn-cover strong{font-size:88px}}
+@media(max-width:400px){.learn-cover strong{font-size:88px}}

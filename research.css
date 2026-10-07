@@ -12,7 +12,7 @@ body.design-page.research-page{background:#fff;color:#080a09}
 .research-header .menu-toggle{display:none}
 .research-eyebrow{margin:0;font-size:10px;font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#454d61}
 .research-hero{padding:41px 0 23px}
-.research-hero h1{margin:14px 0 9px;font-size:clamp(60px,8.35vw,110px);font-weight:400;letter-spacing:-.065em;line-height:.91}
+.research-hero h1{margin:14px 0 9px;font-size:clamp(47px,5.2vw,76px);font-weight:400;letter-spacing:-.055em;line-height:.98}
 .research-hero h1 strong{font-weight:700}
 .research-hero>p:last-child{max-width:1050px;margin:14px 0 0;color:#5b6479;font-size:clamp(25px,3.35vw,36px);letter-spacing:-.045em;line-height:1.15}
 .research-feature{background:radial-gradient(circle at 45% 50%,#182b22 0,#111d18 48%,#0e1915 100%);color:#fff}
@@ -75,7 +75,6 @@ body.design-page.research-page{background:#fff;color:#080a09}
   .research-nav [aria-current="page"]:after{bottom:4px;right:auto;width:70px}
   .research-header-cta{display:none}
   .research-hero{padding:34px 0 28px}
-  .research-hero h1{font-size:clamp(45px,9vw,64px)}
   .research-feature-grid{grid-template-columns:1fr;gap:26px;padding:28px 0}
   .research-cover{width:min(100%,390px);min-height:330px}
   .research-cover strong{font-size:80px}
@@ -87,4 +86,4 @@ body.design-page.research-page{background:#fff;color:#080a09}
   .research-footer{flex-direction:column}
   .research-footer-right{justify-items:start}
 }
-@media(max-width:400px){.research-hero h1{font-size:42px}.research-cover strong{font-size:70px}.research-footer nav,.research-footer-right>div{gap:12px 18px}}
+@media(max-width:400px){.research-cover strong{font-size:70px}.research-footer nav,.research-footer-right>div{gap:12px 18px}}

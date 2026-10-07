@@ -4,7 +4,7 @@
 .outcomes-page .dp-nav [aria-current="page"]{color:#080909}
 .outcomes-kicker{margin:0 0 14px;color:#585d68;font-size:11px;font-weight:700;letter-spacing:.23em;text-transform:uppercase}
 .outcomes-hero{padding-top:39px;padding-bottom:38px}
-.outcomes-hero h1{margin:0;font-size:clamp(66px,11vw,136px);font-weight:400;line-height:.87;letter-spacing:-.075em}
+.outcomes-hero h1{margin:0;font-size:clamp(47px,5.2vw,76px);font-weight:400;line-height:.98;letter-spacing:-.055em}
 .outcomes-hero h1 strong{font-weight:700}
 .outcomes-lead{margin:20px 0 0;color:#4b4b59;font-size:clamp(20px,2.75vw,35px);line-height:1.15;letter-spacing:-.05em}
 .outcomes-sublead{margin:14px 0 0;color:#5d5d69;font-size:clamp(17px,2.1vw,26px);line-height:1.2;letter-spacing:-.04em}
@@ -30,5 +30,5 @@
 .outcomes-footer>span{font-size:17px;color:#6a6c77;letter-spacing:-.05em}
 .outcomes-footer small{margin-left:auto;color:#777882;font-size:12px}
 @media(max-width:900px){.outcomes-page .dp-header{width:min(100% - 50px,1240px)}.outcomes-page .dp-nav{gap:12px}.outcomes-page .dp-nav>a,.outcomes-page .dp-nav summary{font-size:11px}}
-@media(max-width:700px){.outcomes-wrap{width:calc(100% - 40px)}.outcomes-page .dp-header{width:calc(100% - 40px)}.outcomes-page .dp-nav>a,.outcomes-page .dp-nav summary{font-size:16px}.outcomes-hero{padding-top:37px;padding-bottom:43px}.outcomes-hero h1{font-size:clamp(58px,12vw,84px)}.outcomes-impact-grid{gap:24px}.outcomes-arrow{height:50px;font-size:58px}.outcomes-section{padding-top:45px;padding-bottom:50px}.outcomes-section h2{font-size:clamp(46px,8vw,63px)}.outcomes-grid{column-gap:25px}.outcomes-grid h3{font-size:20px}.outcomes-grid p{font-size:16px}}
+@media(max-width:700px){.outcomes-wrap{width:calc(100% - 40px)}.outcomes-page .dp-header{width:calc(100% - 40px)}.outcomes-page .dp-nav>a,.outcomes-page .dp-nav summary{font-size:16px}.outcomes-hero{padding-top:37px;padding-bottom:43px}.outcomes-impact-grid{gap:24px}.outcomes-arrow{height:50px;font-size:58px}.outcomes-section{padding-top:45px;padding-bottom:50px}.outcomes-section h2{font-size:clamp(46px,8vw,63px)}.outcomes-grid{column-gap:25px}.outcomes-grid h3{font-size:20px}.outcomes-grid p{font-size:16px}}
 @media(max-width:540px){.outcomes-impact-grid,.outcomes-grid{grid-template-columns:1fr}.outcomes-impact-grid{gap:26px}.outcomes-grid{row-gap:29px}.outcomes-section h2{font-size:clamp(41px,10vw,55px)}.outcomes-closing h2 br{display:none}.outcomes-footer{flex-wrap:wrap;gap:10px 18px;padding:15px 0}.outcomes-footer small{width:100%;margin-left:0}}
