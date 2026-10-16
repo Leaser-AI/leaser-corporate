@@ -3,6 +3,11 @@
   "name": "leaser-corporate-gated",
   "main": "src/auth.js",
   "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "routes": [
+    { "pattern": "www.leaserai.com/*", "zone_name": "leaserai.com" },
+    { "pattern": "leaserai.com/*", "zone_name": "leaserai.com" }
+  ],
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
